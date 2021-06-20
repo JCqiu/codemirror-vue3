@@ -10,9 +10,14 @@
     "name": "Brilliant",
     "email": "495987545@qq.com"
   },
+  "main": "lib/codemirror-vue3.common.js",
+  "files": [
+    "src/components",
+    "lib/*"
+  ],
   "repository": {
     "type": "git",
-    "url": "http://172.16.0.25/sunxiaolong2/bpmn-lib.git"
+    "url": "https://github.com/JCqiu/codemirror-vue3.git"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
